@@ -2,7 +2,7 @@
 - 👀 I’m interested in algorithm design, optimization, scheduling, hard real-time, embedded, RTOS.
 - 🌱 I’m currently learning Verilog, among other things.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me nicholas@merriam.me.uk
 
 <!---
 nmerriam/nmerriam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
