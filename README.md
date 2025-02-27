@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @nmerriam
 - 👀 I’m interested in algorithm design, optimization, scheduling, hard real-time, embedded, RTOS.
-- 🌱 I’m currently learning Verilog, among other things.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me nicholas@merriam.me.uk
 
